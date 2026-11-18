@@ -1,0 +1,11 @@
+"item_code","item_name","unit","movement_id","latest_receipt_datetime","supplier_id","supplier_name","received_quantity"
+BAG-001,Pet waste bags,pcs,2,"2026-11-01 10:00:00",2,Gentle Grooming Supplies,40
+BAG-001,Pet waste bags,pcs,3,"2026-11-01 10:00:00",3,Kennel Essentials,20
+COMB-001,Disposable grooming combs,pcs,\N,\N,\N,\N,\N
+FOOD-001,Dry dog food,g,2,"2026-11-01 10:00:00",2,Gentle Grooming Supplies,500
+GLOVE-001,Disposable gloves,pair,1,"2026-10-31 09:00:00",1,Harbour Pet Supplies,100
+PAD-001,Absorbent kennel pads,pcs,\N,\N,\N,\N,\N
+SHAM-001,Gentle pet shampoo,mL,2,"2026-11-01 10:00:00",2,Gentle Grooming Supplies,800
+SHAM-001,Gentle pet shampoo,mL,3,"2026-11-01 10:00:00",3,Kennel Essentials,200
+TREAT-001,Training treats,g,1,"2026-10-31 09:00:00",1,Harbour Pet Supplies,500
+WIPE-001,Pet cleaning wipes,pcs,3,"2026-11-01 10:00:00",3,Kennel Essentials,50

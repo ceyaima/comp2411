@@ -1,0 +1,17 @@
+{
+  "group_id": "G069",
+  "canvas_group_name": "Group 69, Nov 26, 13:42-13:47, TU101",
+  "scenario_id": "D11-W05",
+  "stage": 2,
+  "team_size": 4,
+  "members": [
+    {"name": "DY Daphne Grace Go", "student_id": "25091331D"},
+    {"name": "KARYANTA Candice Forestine", "student_id": "25089289D"},
+    {"name": "TORRES Mikel Aidan Samalio", "student_id": "25094637D"},
+    {"name": "SERGEANT Khalia", "student_id": "25089724D"}
+  ],
+  "dbms": "MySQL Community Server",
+  "dbms_version": "8.4.11",
+  "database_name": "comp2411_g069",
+  "approval_reference": null
+}

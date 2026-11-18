@@ -1,0 +1,5 @@
+"item_code","item_name","unit","current_balance","reorder_level","supplier_id","supplier_name","supplier_item_code","quoted_price_hkd_per_unit"
+BAG-001,Pet waste bags,pcs,20,20,2,Gentle Grooming Supplies,GG-BAG-01,0.0000
+FOOD-001,Dry dog food,g,1500,2000,1,Harbour Pet Supplies,HP-FOOD-01,0.0400
+SHAM-001,Gentle pet shampoo,mL,500,500,2,Gentle Grooming Supplies,GG-SHAM-01,0.0800
+SHAM-001,Gentle pet shampoo,mL,500,500,3,Kennel Essentials,KE-SHAM-01,0.0800

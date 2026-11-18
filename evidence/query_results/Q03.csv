@@ -1,0 +1,11 @@
+"item_code","item_name","unit","current_balance","reorder_level","supplier_id","supplier_name","supplier_item_code","quoted_price_hkd_per_unit"
+BAG-001,Pet waste bags,pcs,20,20,2,Gentle Grooming Supplies,GG-BAG-01,0.0000
+BAG-001,Pet waste bags,pcs,20,20,3,Kennel Essentials,KE-BAG-01,0.5000
+COMB-001,Disposable grooming combs,pcs,0,0,4,Reserve Pet Wholesale,RP-COMB-01,\N
+FOOD-001,Dry dog food,g,1500,2000,1,Harbour Pet Supplies,HP-FOOD-01,0.0400
+FOOD-001,Dry dog food,g,1500,2000,2,Gentle Grooming Supplies,GG-FOOD-01,0.0450
+FOOD-001,Dry dog food,g,1500,2000,4,Reserve Pet Wholesale,RP-FOOD-01,0.0500
+PAD-001,Absorbent kennel pads,pcs,0,30,\N,\N,\N,\N
+SHAM-001,Gentle pet shampoo,mL,500,500,2,Gentle Grooming Supplies,GG-SHAM-01,0.0800
+SHAM-001,Gentle pet shampoo,mL,500,500,3,Kennel Essentials,KE-SHAM-01,0.0800
+WIPE-001,Pet cleaning wipes,pcs,20,40,3,Kennel Essentials,KE-WIPE-01,\N

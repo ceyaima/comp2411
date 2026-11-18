@@ -1,0 +1,9 @@
+query_id,script,business_question,techniques,result_file
+Q01,queries/Q01.sql,Which items need replenishment and what are their balances and reorder levels?,view,evidence/query_results/Q01.csv
+Q02,queries/Q02.sql,How much of each item was issued for boarding compared with grooming from 1 to 9 November 2026 inclusive?,join;join3plus;group_by,evidence/query_results/Q02.csv
+Q03,queries/Q03.sql,Which suppliers can provide items needing replenishment with their supplier item codes and quoted prices?,view;join;join3plus;null_handling,evidence/query_results/Q03.csv
+Q04,queries/Q04.sql,Which items have fewer than two recorded suppliers?,join;group_by;having;null_handling,evidence/query_results/Q04.csv
+Q05,queries/Q05.sql,What is the latest receipt datetime and supplier for each item including all tied receipts and items with no receipts?,join;join3plus;subquery;correlated;exists;null_handling,evidence/query_results/Q05.csv
+Q06,queries/Q06.sql,Which service activities used more distinct items than the average among activities with recorded issues?,join;join3plus;group_by;having;subquery,evidence/query_results/Q06.csv
+Q07,queries/Q07.sql,Which suppliers offer the lowest known price for each item needing replenishment including tied cheapest quotes?,view;join;join3plus;subquery;correlated;exists;null_handling,evidence/query_results/Q07.csv
+Q08,queries/Q08.sql,Which suppliers are recorded as supplying at least one item but have never delivered a receipt?,subquery;correlated;exists,evidence/query_results/Q08.csv
